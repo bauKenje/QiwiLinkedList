@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QiwiLinkedList", "QiwiLinkedList\QiwiLinkedList.csproj", "{674C3582-2F0D-41A2-891A-E54BA51C586D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674C3582-2F0D-41A2-891A-E54BA51C586D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674C3582-2F0D-41A2-891A-E54BA51C586D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674C3582-2F0D-41A2-891A-E54BA51C586D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674C3582-2F0D-41A2-891A-E54BA51C586D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {784223BD-7EF9-413C-939F-2103A17EEB63}
+	EndGlobalSection
+EndGlobal
